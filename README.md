@@ -3,9 +3,7 @@ Program [Sonic Pi](https://sonic-pi.net) pozwala na komponowanie utworów muzycz
 
 W katalogu znajdują się trzy osobne programy dla pianina, basu i perkusji. Jest również finalny utwór łączący te trzy ścieżki, którego można posłuchać tutaj:
 
-<audio controls="controls">
-<source src="https://github.com/koderki/2021.08_sonicpi/blob/main/kompozycja.wav?raw=true"/>
-</audio>
+* [Kompozycja pianina, basu i perkusji](https://github.com/koderki/2021.08_sonicpi/blob/main/kompozycja.wav?raw=true)
 
 (Utwór na podstawie materiałów [Geek Tutorials](https://www.youtube.com/user/tbate54))
 
